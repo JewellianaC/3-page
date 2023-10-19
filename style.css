@@ -69,7 +69,7 @@ font-weight: bold;
 /*showcase*/
 #showcase{
 min-height:350px;
-background: url('/imgs/showcase.jpg')no-repeat 0 -3000px;
+background: url('imgs/showcase.jpg')no-repeat 0 -3000px;
 text-align:center;
 color:#181616;
 }
